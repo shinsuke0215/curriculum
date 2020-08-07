@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+#wrapper{
+  width: 600px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.yellow{
+  width: 600px;
+  height: 150px;
+  background-color: #ffff00;
+}
+
+.wrap1{
+  width: 600px;
+  height: 150px;
+}
+
+.skyblue1{
+  width: 200px;
+  height: 150px;
+  background-color: #33ffff;
+  float: left;
+}
+
+.wrap2{
+  width: 400px;
+  height: 150px;
+  float: right;
+}
+
+.red{
+  width: 200px;
+  height: 150px;
+  background-color: #ff0000;
+  float: left;
+}
+
+.blue{
+  width: 200px;
+  height: 150px;
+  background-color: #0000ff;
+  float: right;
+}
+
+.wrap3{
+  width: 600px;
+  height: 150px;
+}
+
+.green{
+  width: 450px;
+  height: 150px;
+  background-color: #00ff00;
+  float: left;
+}
+
+.purple{
+  width: 150px;
+  height: 150px;
+  background-color: #ff00ff;
+  float: right;
+}
+
+.skyblue2{
+  width: 600px;
+  height: 150px;
+  background-color: #33ffff;
+}
