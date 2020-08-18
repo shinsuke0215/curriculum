@@ -1,0 +1,28 @@
+body {
+  min-height: 100%; 
+  height: 100%;
+  background-color: #000000;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 150px;
+  border-bottom: solid 3px #ffffff;
+}
+
+.from {
+  width: 220px;
+  border-top: #ffffff;
+  margin: 0 auto;
+}
+
+input {
+  margin-top: 60px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
